@@ -4,3 +4,12 @@
 
 <img src="./assets/cadastro.png">
 
+<img src="./assets/home.png">
+
+<img src="./assets/destinos.png">
+
+<img src="./assets/passagens.png">
+
+
+
+
